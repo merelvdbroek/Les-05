@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background:black;
+    width:800px;
+    height:800px;
+    display: block;
+}
+
+.block1{
+    background:red;
+    width:420px;
+    height:420px;
+    float:left;
+    margin: 8px;
+}
+
+.block2{
+    background:white;
+    width:340px;
+    height: 420px;
+    float: left;
+    margin: 8px;
+}
+
+.block3{
+    background:blue;
+    width:220px;
+    height: 340px;
+    float: left;
+    margin: 8px;
+}
+
+.block4{
+    background:white;
+    width:250px;
+    height: 340px;
+    float: left;
+    margin: 8px;
+}
+
+.block5{
+    background:yellow;
+    width:274px;
+    height: 340px;
+    float: left;
+    margin: 8px;
+}
