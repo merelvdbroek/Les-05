@@ -1,0 +1,95 @@
+html, body{
+    margin:0;
+    padding:0;
+}
+main{
+    background:black;
+    width:800px;
+    height:800px;
+    display: block;
+}
+
+.block-01{
+    background:black;
+    width:515px;
+    height:261px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float:left;
+}
+
+.block-05{
+    background:black;
+    width:253px;
+    height:261px;
+    float:left;
+}
+.block-07{
+    background:blue;
+    width:122px;
+    height:126px;
+    float:left;
+}
+.block-08{
+    background:white;
+    width:122px;
+    height:126px;
+    float:left;
+    margin-left: 8px;
+
+}
+.block-09{
+    background:white;
+    width:122px;
+    height:126px;
+    float:left;
+    margin-top: 8px;
+
+}
+.block-10{
+    background:yellow;
+    width:122px;
+    height:126px;
+    float:left;
+    margin-left: 8px;
+    margin-top: 8px;
+
+
+}
+.block-06{
+    background:black;
+    width:253px;
+    height:261px;
+    margin-left: 8px;
+    float:left;
+}
+
+
+.block-02{
+    background:white;
+    width:260px;
+    height: 521px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
+
+.block-03{
+    background:red;
+    width:515px;
+    height: 515px;
+    margin-left: 8px;
+    margin-top: -252px;
+
+    float: left;
+}
+
+.block-04{
+    background: blue;
+    width: 260px;
+    height: 254px;
+    margin-left: 8px;
+    margin-top: 8px;
+    float: left;
+}
+
