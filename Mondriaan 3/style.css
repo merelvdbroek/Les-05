@@ -32,10 +32,10 @@ main{
 
 #block-03{
     height: 256px;
-    width: 256px;
-    margin-left: 8px;
+    width: 263px;
+    margin-right: 8px;
     margin-top: 8px;
-    background: red;
+    background: white;
 }
 
 #block-04{
@@ -50,6 +50,7 @@ main{
 #block-05{
     height: 264px;
     width: 256px;
+    margin-top: 8px;
     margin-left: 8px;
     background: red;
 }
@@ -57,34 +58,9 @@ main{
 
 
 #block-06{
-    height:  124px;
-    width:  124px;
-    margin-left: 8px;
-    margin-top: 8px;
-    background: yellow;
-}
-
-
-#block-07{
-    height:  124px;
-    width:  124px;
+    height: 248px;
+    width: 256px;
     margin-left: 8px;
     margin-top: 8px;
     background: blue;
-}
-
-#block-08{
-    height:  124px;
-    width:  124px;
-    margin-left: 8px;
-    margin-top: 8px;
-    background: white;
-}
-
-#block-09{
-    height:  124px;
-    width:  124px;
-    margin-left: 8px;
-    margin-top: 8px;
-    background: red;
 }
